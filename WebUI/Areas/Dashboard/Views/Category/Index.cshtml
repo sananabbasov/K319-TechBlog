@@ -1,1 +1,28 @@
-Burad dashboard category
+@model List<Category>
+
+
+<a class="btn btn-success btn-sm my-3" href="/dashboard/category/create/">Create</a>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Category name</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+   @foreach(var catgory in  Model)
+   {
+    <tr>
+        <th scope="row">1</th>
+        <td>@catgory.Name</td>
+        <td>
+            <a class="btn btn-danger btn-sm" href="/dashboard/category/delete/@catgory.Id">Delete</a>
+            <a class="btn btn-warning btn-sm" href="/dashboard/category/update/@catgory.Id">Update</a>
+        </td>
+    </tr>
+   }
+
+  </tbody>
+</table>

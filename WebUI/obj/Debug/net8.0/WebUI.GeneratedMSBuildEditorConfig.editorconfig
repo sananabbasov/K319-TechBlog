@@ -18,12 +18,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Article/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0FydGljbGUvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Article/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0FydGljbGUvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0FydGljbGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Article/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0FydGljbGUvVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0NhdGVnb3J5L0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0NhdGVnb3J5L0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0NhdGVnb3J5L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0NhdGVnb3J5L1VwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/Areas/Dashboard/Views/Home/Index.cshtml]

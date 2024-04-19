@@ -143,3 +143,4 @@
 /Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/obj/Debug/net8.0/WebUI.csproj.AssemblyReference.cache
 /Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/obj/Debug/net8.0/WebUI.MvcApplicationPartsAssemblyInfo.cs
 /Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/obj/Debug/net8.0/WebUI.csproj.CopyComplete
+/Users/sanan/Desktop/Projects/Compar Academy/K319/MVC/CleanBlog/WebUI/obj/Debug/net8.0/WebUI.sourcelink.json

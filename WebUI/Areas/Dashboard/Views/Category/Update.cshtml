@@ -1,0 +1,11 @@
+@model Category
+
+<form method="post">
+  <div class="form-group">
+    <label for="exampleFormControlInput1">Category name</label>
+    <input type="text" name="Name" value="@Model.Name" class="form-control" id="exampleFormControlInput1" placeholder="Enter category name">
+  </div>
+   <div class="form-group">
+        <input type="submit" value="Update" class="btn btn-warning" />
+    </div>
+</form>
