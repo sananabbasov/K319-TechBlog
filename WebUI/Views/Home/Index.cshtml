@@ -22,9 +22,9 @@
         { 
           <!-- Post preview-->
             <div class="post-preview">
-                <a href="post.html">
+                <a href="/article/detail/@item.Id">
                     <h2 class="post-title">@item.Title</h2>
-                    <h3 class="post-subtitle">@item.Description</h3>
+                    <h3 class="post-subtitle">@item.Description.Substring(0,200)</h3>
                 </a>
                 <p class="post-meta">
                     Posted by

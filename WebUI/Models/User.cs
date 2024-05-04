@@ -10,4 +10,6 @@ public class User : IdentityUser
 {
     public string FirstName { get; set; }
     public string LastName { get; set; }
+    public string ResetToken { get; set; }
+    public DateTime ResetTokenExpireDate { get; set; }
 }
